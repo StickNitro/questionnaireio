@@ -1,6 +1,6 @@
 # Questionnaire.io
 
-This is the site application for Questionnaire.io, a free open-source survey application
+This is the site application for [Questionnaire.io](https://sticknitro.github.io/questionnaireio), a free open-source survey application
 
 #
 

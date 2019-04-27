@@ -14,7 +14,7 @@ before_script:
 script:
 - ng lint
 - ng test --watch=false --browsers=ChromeHeadless
-- ng build --prod --progress=false -base-href https://sticknitro.github.io/questionnaireio/
+- ng build --prod --progress=false --base-href https://sticknitro.github.io/questionnaireio/
 
 deploy:
   provider: pages

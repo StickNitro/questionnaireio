@@ -13,8 +13,9 @@ before_script:
 
 script:
 - ng lint
-- ng test --watch=false --browsers=ChromeHeadless
+- ng test --watch=false --browsers=ChromeHeadless --code-coverage
 - ng build --prod --progress=false --base-href https://sticknitro.github.io/questionnaireio/
+- cat ./coverage/*/lcov.info | ./node_modules/coveralls/bin/coveralls.js
 
 deploy:
   provider: pages

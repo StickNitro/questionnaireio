@@ -69,7 +69,7 @@ For more information see our [code of conduct](https://github.com/StickNitro/que
 
 ## Contributors
 
-<kbd><a href="https://github.com/StickNitro"><img src="https://avatars3.githubusercontent.com/u/15221549?s=48&v=4" style="border-radius: 50%;" /></a></kbd>
+<a href="https://github.com/StickNitro"><img src="https://avatars3.githubusercontent.com/u/15221549?s=48&v=4" style="border-radius: 50%;" class="contrib" /></a>
 
 ## Sponsors
 
@@ -78,3 +78,9 @@ For more information see our [code of conduct](https://github.com/StickNitro/que
 ## License
 
 MIT
+
+<style>
+.contrib {
+  border-radius: 50%;
+}
+</style>

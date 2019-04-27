@@ -69,7 +69,10 @@ For more information see our [code of conduct](https://github.com/StickNitro/que
 
 ## Contributors
 
-<a href="https://github.com/StickNitro"><img src="https://avatars3.githubusercontent.com/u/15221549?s=48&v=4" style="border-radius: 50%;" /></a>
+<style>
+a>img { border-radius: 50%; }
+</style>
+<a href="https://github.com/StickNitro"><img src="https://avatars3.githubusercontent.com/u/15221549?s=48&v=4" /></a>
 
 ## Sponsors
 

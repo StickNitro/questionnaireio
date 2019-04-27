@@ -9,6 +9,8 @@ This is the site application for Questionnaire.io, a free open-source survey app
 [![GitHub stars](https://img.shields.io/github/stars/StickNitro/questionnaireio.svg)](https://github.com/StickNitro/questionnaireio/stargazers)
 [![GitHub license](https://img.shields.io/github/license/StickNitro/questionnaireio.svg)](https://github.com/StickNitro/questionnaireio/blob/master/LICENSE)
 
+[![Build Status](https://travis-ci.com/StickNitro/questionnaireio.svg?branch=master)](https://travis-ci.com/StickNitro/questionnaireio)
+
 
 ## Table of contents
 

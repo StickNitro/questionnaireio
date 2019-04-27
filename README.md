@@ -12,6 +12,9 @@ This is the site application for Questionnaire.io, a free open-source survey app
 [![Build Status](https://travis-ci.com/StickNitro/questionnaireio.svg?branch=master)](https://travis-ci.com/StickNitro/questionnaireio)
 [![Coverage Status](https://coveralls.io/repos/github/StickNitro/questionnaireio/badge.svg?branch=master)](https://coveralls.io/github/StickNitro/questionnaireio?branch=master)
 
+![David](https://img.shields.io/david/StickNitro/questionnaireio.svg)
+![David](https://img.shields.io/david/dev/StickNitro/questionnaireio.svg)
+
 ## Table of contents
 
 1. [Getting Started](#getting-started)

@@ -5,6 +5,7 @@ This is the site application for Questionnaire.io, a free open-source survey app
 #
 
 [![GitHub issues](https://img.shields.io/github/issues/StickNitro/questionnaireio.svg)](https://github.com/StickNitro/questionnaireio/issues)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/StickNitro/questionnaireio.svg)
 [![GitHub forks](https://img.shields.io/github/forks/StickNitro/questionnaireio.svg)](https://github.com/StickNitro/questionnaireio/network)
 [![GitHub stars](https://img.shields.io/github/stars/StickNitro/questionnaireio.svg)](https://github.com/StickNitro/questionnaireio/stargazers)
 [![GitHub license](https://img.shields.io/github/license/StickNitro/questionnaireio.svg)](https://github.com/StickNitro/questionnaireio/blob/master/LICENSE)

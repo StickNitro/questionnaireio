@@ -203,6 +203,7 @@ The subject contains succinct description of the change:
 
 - use the imperative, present tense: "change" not "changed" nor "changes"
 - don't capitalize first letter
+- be concise and direct
 - no dot (.) at the end
 
 ### Body

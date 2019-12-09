@@ -24,6 +24,12 @@
       ],
       "@root/state": [
         "src/app/state"
+      ],
+      "@qnx/auth/state": [
+        "src/app/auth/state"
+      ],
+      "@qnx/auth/state/*": [
+        "src/app/auth/state/*"
       ]
     }
   }

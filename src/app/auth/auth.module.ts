@@ -1,9 +1,13 @@
-import { NgModule } from '@angular/core';
+import { AuthEffects } from './state/effects/auth.effects';
 import { CommonModule } from '@angular/common';
+import { EffectsModule } from '@ngrx/effects';
+import { NgModule } from '@angular/core';
 
 @NgModule({
   imports: [
-    CommonModule
+    CommonModule,
+
+    EffectsModule.forFeature([AuthEffects])
   ],
   declarations: [
   ]

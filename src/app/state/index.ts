@@ -1,4 +1,4 @@
-import * as fromAuth from './reducers/auth.reducer';
+import * as fromAuth from '@qnx/auth/state/reducers/auth.reducer';
 
 import { ActionReducer, ActionReducerMap, MetaReducer, createFeatureSelector, createSelector } from '@ngrx/store';
 
